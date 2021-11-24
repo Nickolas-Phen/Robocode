@@ -1,0 +1,10 @@
+#Battle Properties
+#Fri Apr 16 21:38:09 EDT 2021
+robocode.battle.numRounds=10
+robocode.battle.sentryBorderSize=100
+robocode.battle.gunCoolingRate=0.1
+robocode.battleField.width=800
+robocode.battle.selectedRobots=CAP4053.Student.SampleStudentBot,SampleCs.Crazy
+robocode.battle.rules.inactivityTime=450
+robocode.battle.hideEnemyNames=false
+robocode.battleField.height=800

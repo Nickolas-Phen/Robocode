@@ -1,0 +1,8 @@
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\env\robots\PythonPioneers.dll
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\env\robots\PythonPioneers.pdb
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\StudenRobot.AssemblyInfoInputs.cache
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\StudenRobot.AssemblyInfo.cs
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\StudenRobot.csproj.CoreCompileInputs.cache
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\StudenRobot.csproj.CopyComplete
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\PythonPioneers.dll
+D:\GitStuff\cap4053-student-materials\Assignments\P2 - Robocode\Source\StudenRobot\obj\Debug\PythonPioneers.pdb

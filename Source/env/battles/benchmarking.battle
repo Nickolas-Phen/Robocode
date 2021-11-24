@@ -1,0 +1,10 @@
+#Battle Properties
+#Fri Apr 16 23:07:29 EDT 2021
+robocode.battle.sentryBorderSize=100
+robocode.battle.numRounds=100
+robocode.battleField.width=1200
+robocode.battle.gunCoolingRate=0.1
+robocode.battle.rules.inactivityTime=450
+robocode.battle.selectedRobots=CAP4053.Benchmark.FailBotSharp,CAP4053.Student.Snek
+robocode.battle.hideEnemyNames=false
+robocode.battleField.height=1200

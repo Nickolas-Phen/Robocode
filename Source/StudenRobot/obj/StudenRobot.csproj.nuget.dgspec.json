@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitStuff\\cap4053-student-materials\\Assignments\\P2 - Robocode\\Source\\StudenRobot\\StudenRobot.csproj": {}
+  },
+  "projects": {
+    "D:\\GitStuff\\cap4053-student-materials\\Assignments\\P2 - Robocode\\Source\\StudenRobot\\StudenRobot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitStuff\\cap4053-student-materials\\Assignments\\P2 - Robocode\\Source\\StudenRobot\\StudenRobot.csproj",
+        "projectName": "PythonPioneers",
+        "projectPath": "D:\\GitStuff\\cap4053-student-materials\\Assignments\\P2 - Robocode\\Source\\StudenRobot\\StudenRobot.csproj",
+        "packagesPath": "C:\\Users\\Niko\\.nuget\\packages\\",
+        "outputPath": "D:\\GitStuff\\cap4053-student-materials\\Assignments\\P2 - Robocode\\Source\\StudenRobot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Niko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
